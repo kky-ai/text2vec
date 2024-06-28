@@ -4,7 +4,7 @@ For emotions, we have two models now:
 - english
 - czech / multi-lingual
 
-#### Example:
+#### Example (EN):
 ```
 :: What the hell! I hate those disgusting people.
 Vector length: 38
