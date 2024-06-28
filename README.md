@@ -1,5 +1,10 @@
-# text2vec
+### text2vec
+---
+For emotions, we have two models now:
+- english
+- czech / multi-lingual
 
+#### Example:
 ```
 :: What the hell! I hate those disgusting people.
 Vector length: 38
